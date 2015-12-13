@@ -3,3 +3,5 @@
 Bar
 
 #Color: blue
+
+#Foo
